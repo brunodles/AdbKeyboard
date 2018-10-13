@@ -1,8 +1,13 @@
+# Deprecated
+This repo is no longer being maintained, the code was moved to: https://github.com/brunodles/linux-second-screen
+
 # AdbKeyboard
 Just a wrapper to send text input though adb
 
 The initial idea for this script is to replace spaces ` ` for `%s`.
 But now it can also receive keyevents.
+
+
 
 ## How to use
 ### Just text
